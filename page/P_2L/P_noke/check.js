@@ -1,0 +1,1 @@
+function check(){"forever love"!=document.getElementById("password").value?alert("\u5bc6\u7801\u9519\u8bef\uff01"):window.location.href="../P_story/index.html"}function KeyDown(){13==event.keyCode&&check()};
